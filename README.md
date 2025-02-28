@@ -1,4 +1,4 @@
-# FacePsy Dataset: Depression Episode Detection  
+# Optimizing Facial Expression and Head Dynamics Data Processing to Enhance Depression Detection with Cutting-Edge AI Models  
 This dataset contains facial behavior and head movement data used to predict depression episodes. It includes features such as Action Units (AUs), head movement metrics, and other facial structure indicators.  
 
 ---
